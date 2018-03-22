@@ -1,0 +1,12 @@
+C:\Users\admin\RiderProjects\Test\Test
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Test
+--content-root=C:\Users\admin\RiderProjects\Test\Test
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\Home\About.cshtml
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\Home\Contact.cshtml
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\Home\Index.cshtml
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\Shared\Error.cshtml
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\Shared\_Layout.cshtml
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\_ViewImports.cshtml
+--file=C:\Users\admin\RiderProjects\Test\Test\Views\_ViewStart.cshtml
